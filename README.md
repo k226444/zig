@@ -3,7 +3,7 @@
 A general-purpose programming language and toolchain for maintaining
 **robust**, **optimal**, and **reusable** software.
 
-https://ziglang.org/
+#https://ziglang.org/
 
 ## Documentation
 
